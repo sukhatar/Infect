@@ -1,4 +1,4 @@
-# A tool by nitro from www.noob-hackers.com
+# A to hacker
 # Be a unique person not copy cat
 # Colours
 #-----------------
