@@ -7,9 +7,9 @@
 
 Infect is a bash based script which is officially made for termux users and from this tool you can spread android virus by just sending link. This tool works on both rooted Android device and Non-rooted Android device.
 
-[![Build Status](https://img.shields.io/github/stars/noob-hackers/Infect.svg)](https://github.com/noob-hackers/Infect)
-[![Build Status](https://img.shields.io/github/forks/noob-hackers/Infect.svg)](https://github.com/noob-hackers/Infect)
-[![License: MIT](https://img.shields.io/github/license/noob-hackers/Infect.svg)](https://github.com/noob-hackers/Infect)
+[![Build Status](https://img.shields.io/github/stars/hackers/Infect.svg)](https://github.com/hackers/Infect)
+[![Build Status](https://img.shields.io/github/forks/hackers/Infect.svg)](https://github.com/hackers/Infect)
+[![License: MIT](https://img.shields.io/github/license/hackers/Infect.svg)](https://github.com/hackers/Infect)
 [![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#Infect)
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -41,7 +41,7 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/noob-hackers/Infect
+$ git clone https://github.com/hackers/Infect
 ```
 ```
 $ ls
@@ -84,30 +84,7 @@ __Exit__ :
 ## ?? ***Check this***
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/noobhackers
-
-### Chekout our webite:
-https://www.noob-hackers.com
-
-## ?? ***Join***
-
-### Facebook group: 
-https://www.facebook.com/groups/1936478173310085
-
-### Telegram channel:
-https://t.me/noobhack
-
-### Facebook page:
-https://www.facebook.com/Noob-Hackers-250938565573643
-
-### Instagram: 
-https://www.instagram.com/noobhackers352
-
-### Pinterest:
-https://in.pinterest.com/noobhackers
-
-### My GitHub ID link:
-https://www.github.com/noob-hackers
+https://www.youtube.com/tech spot HACKING TUTORIAL
 
 ### ?? Warning
 
