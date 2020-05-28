@@ -1,4 +1,4 @@
-# A tool by nitro from www.noob-hackers.com
+# A tool by nitro from    
 # Be a unique person not copy cat
 # Colours
 #-----------------
@@ -32,7 +32,7 @@ X  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                         noobhackers
+                          Tech spot
 '|lolcat
 echo " " 
 
